@@ -7,6 +7,7 @@ On the Edit > Line menu:
 
 * Include lines with Regex  <kbd>⌘+K</kbd> <kbd>⌘+R</kbd>
 * Include lines with String  <kbd>⌘+K</kbd> <kbd>⌘+S</kbd>
+* Include lines with Selection  <kbd>⌘+K</kbd> <kbd>⌘+G</kbd>
 * Exclude lines with Regex
 * Exclude lines with String
 
@@ -15,7 +16,7 @@ On the Edit > Code Folding menu:
 * Fold Excluding Regex
 * Fold Excluding String
 * Fold With Regex
-* Fold With String 
+* Fold With String
 
 On Windows and Linux, press the <kbd>ctrl</kbd> key instead of the <kbd>⌘</kbd> key.
 
